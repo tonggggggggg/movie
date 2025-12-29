@@ -13,3 +13,5 @@
 * 查詢與管理訂單
 
 ## 三、使用角色
+
+![image].(https://github.com/tonggggggggg/movie/blob/main/%E6%B5%81%E7%A8%8B%E5%9C%96%E6%93%8D%E4%BD%9C.png)
